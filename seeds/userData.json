@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hunter Thompson",
+        "email": "hunterthompson025@gmail.com",
+        "password": "testpassword"
+    },
+    {
+        "name": "Sal",
+        "email": "sal@hotmail.com",
+        "password": "testpassword"
+      },
+      {
+        "name": "Lernantino",
+        "email": "lernantino@gmail.com",
+        "password": "testpassword"
+      },
+      {
+        "name": "Amiko",
+        "email": "amiko2k20@aol.com",
+        "password": "testpassword"
+      }
+]
