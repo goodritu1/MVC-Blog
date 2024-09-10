@@ -1,22 +1,18 @@
 [
-    {
-        "name": "Hunter Thompson",
-        "email": "hunterthompson025@gmail.com",
-        "password": "testpassword"
-    },
-    {
-        "name": "Sal",
-        "email": "sal@hotmail.com",
-        "password": "testpassword"
-      },
+  
+  {
+    "name": "Ritu",
+    "email": "Ritu@hotmail.com",
+    "password": "mypassword"
+  },
+  {
+    "name": "john",
+    "email": "john@gmail.com",
+    "password": "mypassword"
+  },
       {
-        "name": "Lernantino",
-        "email": "lernantino@gmail.com",
-        "password": "testpassword"
-      },
-      {
-        "name": "Amiko",
-        "email": "amiko2k20@aol.com",
-        "password": "testpassword"
+        "name": "Jane",
+        "email": "Jane20@aol.com",
+        "password": "mypassword"
       }
 ]

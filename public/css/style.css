@@ -1,0 +1,27 @@
+header, .project:not(:last-child) {
+    border-bottom: 1px solid #5d4545;
+  }
+  
+  .no-button {
+    background: none;
+    border: none;
+    padding-left: 25px;
+    cursor: pointer;
+    color: #bc741b;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .no-button:hover {
+    color: #534d44;
+    text-decoration: underline;
+  }
+
+a {
+    font-size: 25px;
+    padding: 25px;
+}
+
+#title {
+    padding: 0;
+}

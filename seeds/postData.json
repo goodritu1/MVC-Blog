@@ -1,11 +1,11 @@
 
 [
     {
-        "name": "Is TDD Practical?",
-        "description": "This blog post will go through TDD and why it is a good idea but also discuss if it is a practical way to code."
+        "name": "DO you love coding",
+        "description": "Yes!! I love coding very much.."
     },
     {
-        "name": "How many coding languages should you learn",
-        "description": "When learning programming is it better to master one language or is it better to gain understanding a of bunch of different langauges?"
+        "name": "What is your favorite language",
+        "description": "I love SQL and backend in particular the most?"
     }
 ]
